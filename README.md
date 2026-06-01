@@ -1,3 +1,6 @@
 This is my first Git project
 
-Hello World!
+
+## Features
+
+- New Print Hello World
