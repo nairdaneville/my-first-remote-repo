@@ -3,5 +3,7 @@ This is my first Git project
 
 ## Features
 
-- New Print Hello World
+- Prints Hello World
+
+## Recent
 - Added <stdio.h> imports
